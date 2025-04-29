@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, meu nome é Luiz, tenho 20 anos, sou natural de Blumenau (SC) e atualmente sou estudante de Ciência da Computação na Univali. 👋
 
 <!--
 **LuizPisa/LuizPisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
